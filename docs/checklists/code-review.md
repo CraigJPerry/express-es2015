@@ -11,3 +11,13 @@ Maintain consistency & quality, even with multiple collaborators in future.
 ### Documentation
 
 * Prefer actionable checklists over long winded reference text
+
+## JavaScript
+
+### Imports
+
+* Prefer require() over ES2015 import since it permits lazy and dynamic loading
+
+### Variables
+
+* Prefer let over var to avoid the confusion that block scoped var can introduce
