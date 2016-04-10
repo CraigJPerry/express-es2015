@@ -1,0 +1,8 @@
+{
+  "name": "thing-database",
+  "version": "1.0.0",
+  "description": "A database of things",
+  "main": "lib/index.js",
+  "author": "Craig J Perry",
+  "license": "ISC"
+}
