@@ -15,3 +15,8 @@ Chai is an assertion library with the option of bdd expect style assertions.
 
 Sinon is a convenience for test doubles, specifically it saves some boiler plate
 code in faking and spying.
+
+## Formatting
+
+It should not be up to individual developers to ensure formatting is consistant.
+Some standard formatting tool should be applied before commit automatically.

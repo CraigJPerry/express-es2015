@@ -21,3 +21,7 @@ Maintain consistency & quality, even with multiple collaborators in future.
 ### Variables
 
 * Prefer let over var to avoid the confusion that block scoped var can introduce
+
+### Formatting
+
+* Indents are 2 spaces
